@@ -1,6 +1,6 @@
 # Voice Controlled Light
 
-## IoT Project
+## Internet of Things Project
 The Multiple LEDs are controlled by Google Voice Assistant. It is triggered by voice command like “OK Google, Turn ON/OFF the light”.
 
 This project is about triggering the light ON/OFF using voice commands with the
